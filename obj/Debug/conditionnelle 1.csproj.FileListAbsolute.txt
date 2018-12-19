@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\conditionnelle 1\conditionnelle 1\bin\Debug\conditionnelle 1.exe.config
+C:\Users\Dell\source\repos\conditionnelle 1\conditionnelle 1\bin\Debug\conditionnelle 1.exe
+C:\Users\Dell\source\repos\conditionnelle 1\conditionnelle 1\bin\Debug\conditionnelle 1.pdb
+C:\Users\Dell\source\repos\conditionnelle 1\conditionnelle 1\obj\Debug\conditionnelle 1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\conditionnelle 1\conditionnelle 1\obj\Debug\conditionnelle 1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\conditionnelle 1\conditionnelle 1\obj\Debug\conditionnelle 1.exe
+C:\Users\Dell\source\repos\conditionnelle 1\conditionnelle 1\obj\Debug\conditionnelle 1.pdb
